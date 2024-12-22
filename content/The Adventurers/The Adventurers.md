@@ -6,6 +6,6 @@ The [[The Loot Tavern]] is home to a multitude of **adventurers** with new faces
 - [[Thera Greenstaff]]
 - [[Tyran Strix]]
 
-### The Regulars
+### The Invited
 - [[Kragal]]
 - [[Maxim]]

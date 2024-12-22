@@ -5,7 +5,7 @@ Maxim is a fair red colored teifling skinshifter sorcerer. He has green eyes, cu
 ![[Maxim.jpg]]
 
 # Personal Quest
-
+Find those that that destroyed his home, and
 
 # Backstory
-He is an outsider amoung outsiders, an infernal being weilding taboo arts. Maxim attempts to understand the opposition he hopes for peace, yet understands its no guarantee, what he saw after his family was slaughtered by fenatics, the [[The Blightguard]].
+He is an outsider among outsiders, an infernal being wielding taboo arts. Maxim attempts to understand the opposition he hopes for peace, yet understands its no guarantee, what he saw after his family was slaughtered by extremists, the [[The Blightguard]].

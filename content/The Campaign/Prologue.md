@@ -1,0 +1,5 @@
+Our party starts with an outlander warrior, a strange scholar, a noble tamer, and a reformed thief. As nations hunker down for their cold war, the need for freelancers plummets as their skills become specialized and nationalized. The odd jobs, once bringing great wealth to your predecessors, have dwindled throughout your career.
+Now, the city of Westgate, your home base. A prosperous yet shady city, filled with seedy characters and greedy authority. Once filled with requests of espionage, battles, and mystery, it has had its jobs dry up.
+Currently, our group of close kitted adventurers stare listlessly at the handful of platinum and gold coinage, provided by their latest quest.
+
+[[Cade]], their handler within Westgate provide the players with **Pale Ale**, a potion capable of transporting one into [[The Loot Tavern]].

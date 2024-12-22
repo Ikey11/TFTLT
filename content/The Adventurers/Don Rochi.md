@@ -1,6 +1,12 @@
+**Humanoid (human),  fighter, he/him**
+
+**Desire:** Wonderlust, To amass wealth (1000 PP)
+**Fear:** Nobles
+
 # Description
-A human fighter
 ![[Don Rochi.png]]
+
+
 # Personal Quest
 - The Hag: Don Rochi has a personal vendetta against a hag who had cloned him.
 	- He traded his hair for a magic item, yet he regretted the trade as the Hag decided to use the sample to create an evil clone of him.

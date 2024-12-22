@@ -1,11 +1,15 @@
-# Description
+**Humanoid (goliath),  fighter/cloud giant barbarian, she/her**
 
-A goliath cloud giant barbarian.
+**Desire:** Wonderlust
+
+# Description
 
 ![[Kragal.jpg]]
 
 # Personal Quest
 To punch every living being on the planet
 
-# Description
-Your guess is as good as mine
+# Background
+- Raised by giants
+- Lived secluded in the mountains doing work for a dragon
+- Dragon died, and she left to see the world

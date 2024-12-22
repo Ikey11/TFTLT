@@ -1,6 +1,6 @@
 This module puts great emphasis on the local, focusing on how the environment hosts new types of dangers and types of people. The stinking marshlands may be home to skeletons sunken in quick stand, or a suspect witch seeking hair in return for enchantments.
 
-![[world_map_big.png]]
+![[Terra World Map.png]]
 
 # The Low
 Perhaps one of the most mysterious regions, the low is a vast underground network home to strange races.
