@@ -15,5 +15,5 @@ The west is filled with lush temperate greenery, with denser jungle towards the 
 Far south of the west island are hilly planes covered by thick snowfall.
 
 # The Blackstone Ridge
-A region known for its intense volcanism, the blackstone ridge is a small continent within the frigid regions of the north.
+A region known for its intense volcanism, the Blackstone Ember Isle is a small continent within the frigid regions of the north.
 The tall spires are home to dragonites who thrive in the volcanic heat.
