@@ -1,3 +1,6 @@
+**Personality:** Curious  
+**Appearance:** Large, has long black fur
+
 ![[noodle.jpg]]
 # Description
 [[Cade]]'s pet cat. 
