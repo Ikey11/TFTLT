@@ -1,3 +1,5 @@
+**Humanoid (Lotol),  Biomancer Wizard, she/her**
+
 # Description
 A irritable Lotol wizard
 
