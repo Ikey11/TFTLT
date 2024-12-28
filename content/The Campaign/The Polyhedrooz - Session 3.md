@@ -1,6 +1,6 @@
 # Synopses
 
-[[The Polyhedrooz - Session 2|Prev]] | [[The Polyhedrooz - Session 1|First]] | Next
+[[The Polyhedrooz - Session 2|Prev]] | [[The Polyhedrooz - Session 1|First]] | [[The Polyhedrooz - Session 4 | Next]]
 
 # Recap
 The crew are given a sample fight against an ooze, revealing their drive for treasure.
