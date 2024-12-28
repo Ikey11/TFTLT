@@ -1,6 +1,6 @@
 # Synopses
 
-Prev | [[The Polyhedrooz - Session 1|First]] | [[The Polyhedrooz - Session 2|Next]]
+Prev | [[The Polyhedrooze - Session 1|First]] | [[The Polyhedrooze - Session 2|Next]]
 
 
 # Recap

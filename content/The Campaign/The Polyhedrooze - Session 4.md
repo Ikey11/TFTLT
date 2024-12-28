@@ -1,6 +1,6 @@
 # Synopses
 
-[[The Polyhedrooz - Session 3|Prev]] | [[The Polyhedrooz - Session 1|First]] | Next
+[[The Polyhedrooze - Session 3|Prev]] | [[The Polyhedrooze - Session 1|First]] | Next
 
 # Recap
 After navigating the dungeon, the party clears each room.

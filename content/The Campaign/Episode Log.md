@@ -21,7 +21,7 @@ After defeating the [[Bone Monger]], the adventurers recover its *bone collectio
 ### The Hag
 The players pass by a Hag's house, who enchants Bandito's longbow in return for a lock of hair. Don Rochi becomes suspicious of the Hag, attacking her for her deceitfulness. The Hag flees, gravely wounded.
 
-# [[The Polyhedrooz - Session 1|The Polyhedooz]]
+# [[The Polyhedrooze - Session 1|The Polyhedooz]]
 *A Dungeon ran by the awesome Donni*
 
 ## Conclusion

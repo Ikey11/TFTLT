@@ -1,9 +1,10 @@
 **Humanoid (human),  fighter, he/him**
 
 **Desire:** To catch all the pokemon
+
 **Fear:** Becoming obsolete
 
-**Quote:** "Despite all of the things I saw, I still care really care about these guys."
+**Quote:** "Despite all of the things I say, I still care really care about these guys."
 
 # Description
 A blue dragonborn tamer

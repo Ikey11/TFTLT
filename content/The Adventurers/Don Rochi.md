@@ -1,6 +1,7 @@
 **Humanoid (human),  fighter, he/him**
 
 **Desire:** Wonderlust, To amass wealth (1000 PP)
+
 **Fear:** Nobles
 
 # Description

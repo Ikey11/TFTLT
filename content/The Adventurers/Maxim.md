@@ -1,3 +1,9 @@
+**Humanoid (tiefling),  skinshifter sorcerer, he/him**
+
+**Desire:** To find who he is
+
+**Fear:** That his mutations might stick
+
 # Description
 
 Maxim is a fair red colored teifling skinshifter sorcerer. He has green eyes, curved horns, and brown hair. He stands at an even 6'.

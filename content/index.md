@@ -25,8 +25,8 @@ Welcome to the Tale of the Loot Tavern home page!
 - Browse the [[Episode Log|Session Synopses]]
 
 ## Quest 3 - The Polyhedrooz
-1. Start: [[The Polyhedrooz - Session 1]]
-2. [[The Polyhedrooz - Session 2]]
-3. [[The Polyhedrooz - Session 3]]
-4. Wrap-up: [[The Polyhedrooz - Session 4]]
+1. Start: [[The Polyhedrooze - Session 1]]
+2. [[The Polyhedrooze - Session 2]]
+3. [[The Polyhedrooze - Session 3]]
+4. Wrap-up: [[The Polyhedrooze - Session 4]]
 

@@ -1,5 +1,8 @@
+**Humanoid (Rakin),  rouge, he/him**
+
+**Desire:** Redemption
+
 # Description
-A Rakin rouge
 ![[Bandito Baggins.png]]
 
 # Personal Quest
