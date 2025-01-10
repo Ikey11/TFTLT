@@ -7,8 +7,10 @@
 **Quote:** "Despite all of the things I say, I still care really care about these guys."
 
 # Description
-A blue dragonborn tamer
+A blue dragonborn tamer, a former noble.
 
+![[Tyran.png]]
+![[tyran_by_k.png]]
 # Personal Quest
 **TBD**
 

@@ -7,7 +7,7 @@
 # Description
 ![[Don Rochi.png]]
 
-
+![[don_by_k.png]]
 # Personal Quest
 - The Hag: Don Rochi has a personal vendetta against a hag who had cloned him.
 	- He traded his hair for a magic item, yet he regretted the trade as the Hag decided to use the sample to create an evil clone of him.

@@ -9,7 +9,7 @@
 Maxim is a fair red colored teifling skinshifter sorcerer. He has green eyes, curved horns, and brown hair. He stands at an even 6'.
 
 ![[Maxim.jpg]]
-
+![[maxim_by_k.png]]
 # Personal Quest
 Find those that that destroyed his home [[The Blightguard]], and stop them before any further harm is done.
 
