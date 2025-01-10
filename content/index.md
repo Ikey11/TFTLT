@@ -32,3 +32,5 @@ Welcome to the Tale of the Loot Tavern home page!
 3. [[The Polyhedrooze - Session 3]]
 4. Wrap-up: [[The Polyhedrooze - Session 4]]
 
+## Quest 4 - The Shining Shrine
+1. Our Characters Obliterate the Owlbear: [[The Shining Shrine - Session 1]]
