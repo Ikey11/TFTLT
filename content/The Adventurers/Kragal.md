@@ -14,4 +14,4 @@ To punch every living being on the planet
 - Raised by giants in the region of [[Haemspire Peak]].
 - Lived secluded in the mountains doing work for the dragon, [[Volrak the Arrogant]].
 	- As a result she has gotten good at sucking up to authority.
-- After new of Volrak's sudden demise, Kragal left to see the world.
+- After news of Volrak's sudden demise, Kragal left to see the world.

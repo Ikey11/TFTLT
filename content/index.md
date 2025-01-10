@@ -20,6 +20,8 @@ Welcome to the Tale of the Loot Tavern home page!
 ## Factions
 [[The Blightguard]]
 
+[[Blossom Union]]
+
 
 # The Campaign
 - Browse the [[Episode Log|Session Synopses]]
