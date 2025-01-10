@@ -2,7 +2,7 @@
 
 # Description
 A irritable Lotol wizard
-
+![[thera_dnd.png]]
 # Personal Quest
 **TBD**
 
